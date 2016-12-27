@@ -16,12 +16,12 @@ requires = [
 setup(
     name='frenchy',
     packages=['frenchy'],
-    version='0.3',
+    version='0.4',
     description='A pandas friendly french election scraper',
     author='Robin Linderborg',
     author_email='robin.linderborg@gmail.com',
     url='https://github.com/miroli/frenchy',
-    download_url='https://github.com/miroli/frenchy/tarball/0.3',
+    download_url='https://github.com/miroli/frenchy/tarball/0.4',
     install_requires=requires,
     keywords=['france', 'scraper', 'elections'],
 )
