@@ -16,6 +16,7 @@ requires = [
 setup(
     name='frenchy',
     packages=['frenchy'],
+    packages_data={'frenchy': ['data.p']},
     version='0.4',
     description='A pandas friendly french election scraper',
     author='Robin Linderborg',
