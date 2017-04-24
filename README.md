@@ -8,13 +8,13 @@ machy.results  # election results for both rounds
 machy.meta  # metadata, such as number of votes
 ```
 
-###Install
+### Install
 
 ```bash
 pip install frenchy
 ```
 
-###Usage
+### Usage
 
 ```python
 # Top level functionality
@@ -34,7 +34,7 @@ machy.department  # 'AUBE'
 machy.department_code  # 10
 ```
 
-###Tests
+### Tests
 
 ```bash
 python -m unittest
