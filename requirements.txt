@@ -1,7 +1,7 @@
 beautifulsoup4==4.5.1
 bs4==0.0.1
 html5lib==0.999999999
-lxml==3.7.1
+lxml==4.6.5
 numpy==1.11.3
 pandas==0.19.2
 python-dateutil==2.6.0
